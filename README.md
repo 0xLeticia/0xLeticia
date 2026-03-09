@@ -1,6 +1,6 @@
-# 🔍 Investigadora Digital Especializada em Inteligência Avançada
+# 🔍 Investigadora Digital
 
-🕵️‍♀️ **Profissão:** Detetive Particular com expertise em investigações digitais avançadas, incluindo inteligência, análise de dados complexos e **espionagem ativa**.
+🕵️‍♀️ **Profissão:** Detetive Particular com expertise em investigações digitais avançadas, incluindo inteligência e análise de dados.
 
 🗣️ **Idiomas:** Português (nativo), Russo (intermediário) e Inglês (fluente).
 
@@ -18,8 +18,6 @@ Especialista em **OSINT (Open Source Intelligence)** com abordagens multifacetad
 - **CSINT (Closed Source Intelligence):** Integração de fontes fechadas privilegiadas para inteligência.
 - **Espionagem Ativa:** Técnicas de investigação dinâmica em ambientes digitais.
 - **HUMINT Integrado com OSINT:** Validação cruzada entre fontes humanas e abertas para maior precisão.
-
-Essas competências permitem investigações completas e estratégicas em contextos corporativos, pessoais e de segurança cibernética.
 
 ---
 
